@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="21.478731">
+<testcase classname="Simple Data Driven without Example keyword" name="Free CRM Login Page" time="21.478731">
+<system-out><![CDATA[Given user is already on login page.........................................passed
+When title of login page is Free CRM........................................passed
+Then user enters username and password......................................passed
+Then user clicks on login button............................................passed
+Then Open the home page.....................................................passed
+Then click on user menu.....................................................passed
+Then click on add user......................................................passed
+Then fill the value in form.................................................passed
+Then close the browser......................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
